@@ -1,1 +1,2 @@
 Brocadero webBrowser
+Brave webpage
